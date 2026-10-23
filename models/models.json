@@ -1,0 +1,4 @@
+[
+  {"id": "xlsr",           "file": "xlsr_deepfake_int8.onnx",    "sampleRate": 16000, "fixedSamples": 64000, "spoofIndex": 1, "weight": 1.0},
+  {"id": "wav2vec2_aasist", "file": "wav2vec2_aasist_int8.onnx", "sampleRate": 16000, "fixedSamples": 64000, "spoofIndex": 1, "weight": 1.0}
+]

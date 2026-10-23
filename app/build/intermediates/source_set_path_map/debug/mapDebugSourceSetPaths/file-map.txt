@@ -1,0 +1,50 @@
+com.example.voiceguard.app-animation-core-release-0 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\08bb651d3b527c5a143b6632d9156a90\workspace\transformed\animation-core-release\res
+com.example.voiceguard.app-customview-poolingcontainer-1.0.0-1 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\099321374dc17d8a27af52841f80ac8f\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.example.voiceguard.app-room-runtime-2.6.1-2 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\0dcef663c88610d42b598b8ff7278f8c\workspace\transformed\room-runtime-2.6.1\res
+com.example.voiceguard.app-room-ktx-2.6.1-3 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\0f0cb1ec02e4e95ec10f9543ffd3d35b\workspace\transformed\room-ktx-2.6.1\res
+com.example.voiceguard.app-lifecycle-runtime-ktx-release-4 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\10c0e439fddb0a5b704159da6ae0810c\workspace\transformed\lifecycle-runtime-ktx-release\res
+com.example.voiceguard.app-activity-ktx-1.9.3-5 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\1408a4b89ab94d9b7106f3cbaf0057e7\workspace\transformed\activity-ktx-1.9.3\res
+com.example.voiceguard.app-savedstate-1.2.1-6 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\15320a3d7f25ca357a3d533e4b4a1e63\workspace\transformed\savedstate-1.2.1\res
+com.example.voiceguard.app-lifecycle-runtime-compose-release-7 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\1cbce237b04f114c52be5f3d438e70ca\workspace\transformed\lifecycle-runtime-compose-release\res
+com.example.voiceguard.app-sqlite-2.4.0-8 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\29cb9a35d4921598f727ab3614029ce6\workspace\transformed\sqlite-2.4.0\res
+com.example.voiceguard.app-graphics-path-1.0.1-9 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\30f569452dc86d899b9ca39c017324bc\workspace\transformed\graphics-path-1.0.1\res
+com.example.voiceguard.app-emoji2-1.3.0-10 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\30f69a04849dec91e7086907382c7f30\workspace\transformed\emoji2-1.3.0\res
+com.example.voiceguard.app-lifecycle-process-2.8.7-11 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\314bde6be5888d9184b43171bbcb3141\workspace\transformed\lifecycle-process-2.8.7\res
+com.example.voiceguard.app-activity-compose-1.9.3-12 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\345bb8b26053bdd1d0325da82ca7a629\workspace\transformed\activity-compose-1.9.3\res
+com.example.voiceguard.app-lifecycle-livedata-core-2.8.7-13 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\3ed212c105a40c8cb465e34026b95219\workspace\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.voiceguard.app-lifecycle-viewmodel-ktx-2.8.7-14 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\408fb619174a22c5fa3fa207b45fb61d\workspace\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.voiceguard.app-material-ripple-release-15 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\4fa2512af51605522f380772316a8e12\workspace\transformed\material-ripple-release\res
+com.example.voiceguard.app-foundation-layout-release-16 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\529f60f2e0700d160fa992df55c40138\workspace\transformed\foundation-layout-release\res
+com.example.voiceguard.app-lifecycle-viewmodel-savedstate-2.8.7-17 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\75441f160c9d9b020f85ef1e2b049b87\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.voiceguard.app-runtime-saveable-release-18 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\786b334d3faaaa113bac009dbef87779\workspace\transformed\runtime-saveable-release\res
+com.example.voiceguard.app-animation-release-19 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\7b027ace273f6a037687485c8f460ff4\workspace\transformed\animation-release\res
+com.example.voiceguard.app-ui-release-20 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\814a501aa00def2e5da235a58cb0a48d\workspace\transformed\ui-release\res
+com.example.voiceguard.app-sqlite-framework-2.4.0-21 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\82478ab21189b6fabd0820a4cf156311\workspace\transformed\sqlite-framework-2.4.0\res
+com.example.voiceguard.app-tracing-1.2.0-22 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\8817ad9c6550b9b007da78bbac3893d5\workspace\transformed\tracing-1.2.0\res
+com.example.voiceguard.app-ui-graphics-release-23 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\9fb64ecd0aa1f5b35107a575086da1fb\workspace\transformed\ui-graphics-release\res
+com.example.voiceguard.app-profileinstaller-1.3.1-24 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\a3fea8f3889eb18b40ea68363c9bccbb\workspace\transformed\profileinstaller-1.3.1\res
+com.example.voiceguard.app-savedstate-ktx-1.2.1-25 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\b2335043cbe2b0df73b286a0a502e3dc\workspace\transformed\savedstate-ktx-1.2.1\res
+com.example.voiceguard.app-ui-geometry-release-26 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\b2fe1888c13fc94385c95ca4283350a6\workspace\transformed\ui-geometry-release\res
+com.example.voiceguard.app-core-1.15.0-27 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\c4b8145bad310f05ffe55b433fc50e45\workspace\transformed\core-1.15.0\res
+com.example.voiceguard.app-material3-release-28 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\c6b5f145b4737e8b8100fb9f1861bd46\workspace\transformed\material3-release\res
+com.example.voiceguard.app-lifecycle-runtime-release-29 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\c7a814811309b96cfa29e2937f2c9465\workspace\transformed\lifecycle-runtime-release\res
+com.example.voiceguard.app-foundation-release-30 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\ca153fbfb8c03deb4cc909f6806eef77\workspace\transformed\foundation-release\res
+com.example.voiceguard.app-activity-1.9.3-31 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\cd1d30c13cb1160e600d129df71f5da7\workspace\transformed\activity-1.9.3\res
+com.example.voiceguard.app-ui-unit-release-32 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\cf4cd1c3b3ccf62deebd18eec93dd51b\workspace\transformed\ui-unit-release\res
+com.example.voiceguard.app-core-runtime-2.2.0-33 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\d22763bd1dbec98f1206641f83666bb7\workspace\transformed\core-runtime-2.2.0\res
+com.example.voiceguard.app-ui-text-release-34 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\d3d0a20e3e4ecf6c88fe841df0655527\workspace\transformed\ui-text-release\res
+com.example.voiceguard.app-lifecycle-viewmodel-release-35 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\db3e2d7c9408ae001c54278a9e47bd9c\workspace\transformed\lifecycle-viewmodel-release\res
+com.example.voiceguard.app-material-icons-core-release-36 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\e3efde512bebd38a45d777d4bd568683\workspace\transformed\material-icons-core-release\res
+com.example.voiceguard.app-annotation-experimental-1.4.1-37 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\e674f2441bfcb697dff2a37cf1623611\workspace\transformed\annotation-experimental-1.4.1\res
+com.example.voiceguard.app-startup-runtime-1.1.1-38 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\e6eae04e114e14d99c3742197e6a3636\workspace\transformed\startup-runtime-1.1.1\res
+com.example.voiceguard.app-lifecycle-viewmodel-compose-release-39 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\f3c70103c6ea7e496bd53f70fd4f97e1\workspace\transformed\lifecycle-viewmodel-compose-release\res
+com.example.voiceguard.app-core-ktx-1.15.0-40 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\f58ffa969d15b40143916b28fc129d51\workspace\transformed\core-ktx-1.15.0\res
+com.example.voiceguard.app-runtime-release-41 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\f96a02ce0bbc4d0480a79feab80238c6\workspace\transformed\runtime-release\res
+com.example.voiceguard.app-ui-util-release-42 C:\Users\Vanilla\.gradle\caches\9.3.0\transforms\fe51e9e3616c7555051f39beee7b2aab\workspace\transformed\ui-util-release\res
+com.example.voiceguard.app-pngs-43 C:\Users\Vanilla\Downloads\voiceguard - Copy\voiceguard\app\build\generated\res\pngs\debug
+com.example.voiceguard.app-resValues-44 C:\Users\Vanilla\Downloads\voiceguard - Copy\voiceguard\app\build\generated\res\resValues\debug
+com.example.voiceguard.app-packageDebugResources-45 C:\Users\Vanilla\Downloads\voiceguard - Copy\voiceguard\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.voiceguard.app-packageDebugResources-46 C:\Users\Vanilla\Downloads\voiceguard - Copy\voiceguard\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.voiceguard.app-debug-47 C:\Users\Vanilla\Downloads\voiceguard - Copy\voiceguard\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.voiceguard.app-debug-48 C:\Users\Vanilla\Downloads\voiceguard - Copy\voiceguard\app\src\debug\res
+com.example.voiceguard.app-main-49 C:\Users\Vanilla\Downloads\voiceguard - Copy\voiceguard\app\src\main\res
